@@ -1,0 +1,16 @@
+# Virtual environment
+env/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Output directory
+outputs/
+
+# Data directory
+data/
+
+# Other common ignores
+*.log
+*.tmp
